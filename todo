@@ -1,0 +1,2 @@
+- write e2e test using test db
+- implement query parser for pagination, equality and conditional query
